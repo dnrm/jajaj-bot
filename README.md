@@ -1,4 +1,3 @@
-<br />
 <img src="https://cdn.danielmedina.dev/gh-banners/jajaj-bot.png" />
 
 # jajaj-bot
