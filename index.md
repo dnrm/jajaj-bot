@@ -6,7 +6,7 @@ By Daniel Medina (dnrm)
 
 ## What is it?
 
-Jajaj Bot is a discord bot made to annoy your friends or other members in the server. It accomplishes that by responding to ***every** single message with a long string of "JAJAJJAJAJ". It is about 15 lines long.
+Jajaj Bot is a discord bot made to annoy your friends or other members in the server. It accomplishes that by responding to ***every*** single message with a long string of "JAJAJJAJAJ". It is about 15 lines long.
 
 
 ## Other functionality
